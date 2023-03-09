@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/to/school  #this -p lets you create all this path as directories
+mkdir -p welcome/to/school 
