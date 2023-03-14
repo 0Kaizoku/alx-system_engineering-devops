@@ -1,2 +1,2 @@
 #!/bin/bash
-sed '14p' iacta > temp.txt && cat temp.txt > iacta && rm temp.txt
+tail -n 1 iacta >> iacta
